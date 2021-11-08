@@ -1,2 +1,2 @@
 # marathon_data
-Analysing marathon results 
+Analysis and insights form marathon results 
