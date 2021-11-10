@@ -27,3 +27,5 @@ def make_soup_sel(url, browser):
 def make_soup_mech(url, browser):
     soup = BeautifulSoup(browser.open(url).read())
     return soup
+
+main_link = 'https://chicago-history.r.mikatiming.com/2019/?lang=EN_CAP'
